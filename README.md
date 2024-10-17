@@ -1,7 +1,3 @@
-Here’s an updated **README** tailored to your preferences:  
-
----
-
 # ⏳ **INNOTHON '24 Timer**  
 
 ![timer-gif](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)  
