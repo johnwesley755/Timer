@@ -8,7 +8,7 @@ const App = () => {
     seconds: "00",
   });
 
-  const startDate = new Date("2024-10-17T10:00:00").getTime();
+  const startDate = new Date("2024-10-18T10:00:00").getTime();
 
   useEffect(() => {
     const interval = setInterval(() => {
